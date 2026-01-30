@@ -27,7 +27,4 @@
  [<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />](https://luckyslothstudio.itch.io/)
 
 ##
- 
- ### 📊 Github Stats
-[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hcb13&exclude_repo=Hortensia,devassessment&hide=hlsl,ShaderLab&theme=tokyonight&count_private=true)](https://github.com/hcb13/github-readme-stats)
 
